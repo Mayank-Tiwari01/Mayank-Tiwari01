@@ -5,16 +5,16 @@
 - **mayank.tiwari0106@gmail.com**
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mayank-t01" target="_blank">
+  <a href="https://www.linkedin.com/in/mayank-t01">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="https://github.com/.tonywari" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub logo" />
+  <a href="https://github.com/.tonywari" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   </a>
-  <a href="mailto:mayank.tiwari0106@gmail.com" target="_blank">
+  <a href="mailto:mayank.tiwari0106@gmail.com" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
-  <a href="https://t.me/mayankT01" target="_blank">
+  <a href="https://t.me/mayankT01" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
   </a>
 </div>
