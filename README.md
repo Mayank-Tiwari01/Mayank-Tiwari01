@@ -2,6 +2,12 @@
 <h3 align="center">A passionate developer who loves solving problems and building creative projects. I thrive on tackling challenging problems and coming up with innovative solutions. I'm always open to collaborations and continuously seeking opportunities to grow and improve my skills as a developer. Let's create something amazing together!</h3>
 
 - 📫 How to reach me **mayank.tiwari0106@gmail.com**
+
+<h3 align="left">My leetcode account</h3>
+<p align="left">
+<a href="https://www.leetcode.com/mayank-tiwari01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayank-tiwari01" height="30" width="40" /></a>
+</p>
+
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mayank-Tiwari01?theme=light&font=Harmattan&ext=heatmap)
 
