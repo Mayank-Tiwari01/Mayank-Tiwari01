@@ -20,5 +20,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-tiwari01&" alt="mayank-tiwari01" /></p>
 
 <img src="https://raw.githubusercontent.com/Mayank-Tiwari01/Mayank-Tiwari01/output/snake.svg" alt="Snake animation" />
-
-###
