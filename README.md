@@ -1,7 +1,23 @@
 <h1 align="center">Hi, I'm Mayank Tiwari</h1>
 <h3 align="center">A passionate developer who loves solving problems and building creative projects. I thrive on tackling challenging problems and coming up with innovative solutions. I'm always open to collaborations and continuously seeking opportunities to grow and improve my skills as a developer. Let's create something amazing together!</h3>
 
-- 📫 How to reach me **mayank.tiwari0106@gmail.com**
+- 📫 How to reach me
+- **mayank.tiwari0106@gmail.com**
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mayank-t01" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="https://github.com/.tonywari" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub logo" />
+  </a>
+  <a href="mailto:mayank.tiwari0106@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+  <a href="https://t.me/mayankT01" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo" />
+  </a>
+</div>
 
 <h3 align="left">My leetcode account</h3>
 <p align="left">
@@ -25,8 +41,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-###
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-tiwari01&show_icons=true&locale=en&layout=compact" alt="mayank-tiwari01" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-tiwari01&" alt="mayank-tiwari01" /></p>
-
-<img src="https://raw.githubusercontent.com/Mayank-Tiwari01/Mayank-Tiwari01/output/snake.svg" alt="Snake animation" />
