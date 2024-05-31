@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer who loves solving problems and building creative projects. I thrive on tackling challenging problems and coming up with innovative solutions. I'm always open to collaborations and continuously seeking opportunities to grow and improve my skills as a developer. Let's create something amazing together!</h3>
 
 - 📫 How to reach me **mayank.tiwari0106@gmail.com**
-  
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mayank-Tiwari01?theme=light&font=Harmattan&ext=heatmap)
 
 <h3 align="left">Languages and Tools:</h3>
