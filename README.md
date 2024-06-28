@@ -50,17 +50,11 @@
 <br>
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank-tiwari01&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-
 <br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-tiwari01" alt="GitHub streak stats" />
 </p>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mayank-Tiwari01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
